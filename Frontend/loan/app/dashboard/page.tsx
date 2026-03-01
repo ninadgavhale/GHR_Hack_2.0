@@ -53,7 +53,7 @@ export default function DashboardPage() {
         {/* Header */}
         <div className="flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between">
           <div>
-            <h1 className="text-2xl font-bold text-foreground">XAI Dashboard</h1>
+            <h1 className="text-2xl font-bold text-foreground">Explainable and Fair AI Credit Decision Engine</h1>
             <p className="text-sm text-muted-foreground">
               Explainable AI analysis for your loan application
             </p>
